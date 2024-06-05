@@ -261,6 +261,6 @@ Function Prototypes
     <summary>Nwite Chiemezie</summary>
     <ul>
     <li><a href="https://www.github.com/Sparkling24">Github</a></li>
- <li><a href="mailto: chimexdguy2010@gmail.com">e-mail</a></li>
+ <li><a href="mailto: chimexdguy2010@gmail.com">E-mail</a></li>
     </ul>
 </details>
